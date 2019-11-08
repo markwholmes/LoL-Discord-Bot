@@ -3,3 +3,5 @@
 
 config.py
 *.exe
+.ipynb_checkpoints
+__pycache__
